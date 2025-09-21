@@ -9,5 +9,5 @@ def divide_numbers(a, b):
     return a / b
 
 print(add_numbers(5, 10))
-print(divide_numbers(10, 2))  # No error
+print(divide_numbers(10, 1))  # No error
 
